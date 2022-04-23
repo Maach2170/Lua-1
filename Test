@@ -1,0 +1,4 @@
+Local Hello = 5
+Local lol = 8
+
+print (Hello * lol)
